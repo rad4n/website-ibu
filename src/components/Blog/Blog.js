@@ -30,10 +30,10 @@ class Blog extends Component {
                     <div className="view-buttn my-md-4 my-sm-4 my-3">
                         <a href="#" className="btn">Detail</a>
                     </div>
-                    <img src={require('../../images/bedah-buku.jpg')} alt="news image" className="img-fluid " />
+                    <img src='https://via.placeholder.com/500x400' alt="news image" className="img-fluid " />
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-6 blog-two-two mt-3">
-                    <img src={require('../../images/mesin-cuci.jpg')} alt="news image" className="img-fluid" />
+                    <img src='https://via.placeholder.com/500x400' alt="news image" className="img-fluid" />
                     <div className="blog-date-time mt-lg-4 mt-3 mb-2">
                         <ul>
                             <li>

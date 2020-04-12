@@ -5,7 +5,7 @@ class Greeting extends Component {
     return (
         <div className="banner-right-txt text-center">
             <h5 className="mb-2">Dengan bangga saya ingin memperkenalkan sosok yang selama ini mendoakan saya dengan tulus. Mohon doanya untuk </h5>
-            <h4>Raufah</h4>
+            <h4>Nama Ibu Anda</h4>
             <div className="two-demo-button mt-3">
             <p>Ibu saya</p>
             <p>agar selalu diberi kesehatan dan dalam lindungan sang pencipta</p>

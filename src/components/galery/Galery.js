@@ -21,13 +21,13 @@ class Galery extends Component {
                 </div>
                 <div className="row">
                     <div className="col-lg-4 col-md-4 col-sm-4 about-wthree-images">
-                    <img src={require('../../images/bedah-buku.jpg')} alt="news image" className="img-fluid"/>
+                    <img src='https://via.placeholder.com/500x400' alt="news image" className="img-fluid"/>
                     </div>
                     <div className="col-lg-4 col-md-4 col-sm-4 about-wthree-images">
-                    <img src={require('../../images/bukber.jpg')} alt="news image" className="img-fluid"/>
+                    <img src='https://via.placeholder.com/500x400' alt="news image" className="img-fluid"/>
                     </div>
                     <div className="col-lg-4 col-md-4 col-sm-4 about-wthree-images">
-                    <img src={require('../../images/mesin-cuci.jpg')} alt="news image" className="img-fluid"/>
+                    <img src='https://via.placeholder.com/500x400' alt="news image" className="img-fluid"/>
                     </div>
                 </div>
                 <div className="about-history my-lg-5 my-md-4 my-3">
