@@ -7,3 +7,9 @@ Namun mungkin dibutuhkan 1 juta lebih doa orang baik untuk membalas satu doa tul
 Source code ini saya buat untuk tujuan pembelajaran. Menggunakan library React js dan masih banyak hal yang bisa Anda sempurnakan lebih lanjut.
 
 Anda bebas merubah isi kode di dalam project ini dan semoga bisa bermanfaat.
+
+UPDATE 5 Mei 2020
+perubahan file contact.js
+- Penambahan state untuk menyimpan data pesan
+- Penambahan fungsi untuk mengirim data post ke cloud function firebase
+- Pada baris 34, Anda bisa memasukan Endpoint URL clound function firebase.
